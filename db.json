@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Slipon",
+      "description": "aa",
+      "price": 733,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBM23J5QOIPZDuiYJXUjDyivU4123BySHki7nk2Gso107u6sfa0p11U-6YhYLLfT8MkjQ&usqp=CAU",
+      "id": 6
+    },
+    {
+      "name": "Converse",
+      "description": "aaa",
+      "price": 733,
+      "image": "https://drake.vn/image/catalog/H%C3%ACnh%20content/gia%CC%80y%20Converse%20da%20bo%CC%81ng/giay-converse-da-bong-5.jpg",
+      "id": 7
+    },
+    {
+      "name": "SmartMen",
+      "description": "aa",
+      "price": 733,
+      "image": "https://giaycaosmartmen.com/wp-content/uploads/2020/12/cach-chup-giay-dep-9.jpg",
+      "id": 8
+    },
+    {
+      "name": "Slipon",
+      "description": "aa",
+      "price": 733,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBM23J5QOIPZDuiYJXUjDyivU4123BySHki7nk2Gso107u6sfa0p11U-6YhYLLfT8MkjQ&usqp=CAU",
+      "id": 9
+    },
+    {
+      "name": "abc",
+      "description": "qưqw",
+      "price": 111111,
+      "image": "https://picsum.photos/300/300",
+      "id": 15
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "name": "Đang Bán"
+    },
+    {
+      "id": 2,
+      "name": "Ngừng Bán"
+    }
+  ],
+  "vouchers": [],
+  "order": [],
+  "cart": []
+}
